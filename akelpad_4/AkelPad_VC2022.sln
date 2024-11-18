@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AkelPad", "AkelPad_VC2022.vcxproj", "{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug English|Win32 = Debug English|Win32
+		Debug English|x64 = Debug English|x64
+		Dynamic Release English|Win32 = Dynamic Release English|Win32
+		Dynamic Release English|x64 = Dynamic Release English|x64
+		Library Debug English|Win32 = Library Debug English|Win32
+		Library Debug English|x64 = Library Debug English|x64
+		Release English|Win32 = Release English|Win32
+		Release English|x64 = Release English|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Debug English|Win32.ActiveCfg = Debug English|Win32
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Debug English|Win32.Build.0 = Debug English|Win32
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Debug English|x64.ActiveCfg = Debug English|x64
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Debug English|x64.Build.0 = Debug English|x64
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Dynamic Release English|Win32.ActiveCfg = Dynamic Release English|Win32
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Dynamic Release English|Win32.Build.0 = Dynamic Release English|Win32
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Dynamic Release English|x64.ActiveCfg = Dynamic Release English|x64
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Dynamic Release English|x64.Build.0 = Dynamic Release English|x64
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Library Debug English|Win32.ActiveCfg = Library Debug English|Win32
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Library Debug English|Win32.Build.0 = Library Debug English|Win32
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Library Debug English|x64.ActiveCfg = Library Debug English|x64
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Library Debug English|x64.Build.0 = Library Debug English|x64
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Release English|Win32.ActiveCfg = Release English|Win32
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Release English|Win32.Build.0 = Release English|Win32
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Release English|x64.ActiveCfg = Release English|x64
+		{DD585F5A-4FF3-443C-B0CF-5DEDA5C4258C}.Release English|x64.Build.0 = Release English|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A9E7548-0776-4519-B411-16FECB3205B1}
+	EndGlobalSection
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+EndGlobal

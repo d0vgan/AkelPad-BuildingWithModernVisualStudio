@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2e4486b0-f703-469e-9767-27d6fa247d96}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{713aef97-0a08-49d6-acc4-7ce463dcb3e8}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{24d4d4dd-6284-4475-90b0-6b0ef26744f3}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AkelEdit\AkelEdit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AkelPad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Edit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="AkelFiles\Langs\Resources\AkelPad.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="AkelFiles\Langs\Resources\Empty.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AkelFiles\Langs\Resources\DragMove.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="AkelFiles\Langs\Resources\HandClose.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="AkelFiles\Langs\Resources\HandOpen.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="AkelFiles\Langs\Resources\English.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
